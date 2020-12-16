@@ -14,5 +14,5 @@ if(temp==rev):
   print("the no is palindrome")
 else:
   print("no not a palindrome")
-
+//sabeeha tabassum
 
